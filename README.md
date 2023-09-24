@@ -1,5 +1,5 @@
 ### Hi I'm Martin (You can call me Seonghoon if you can pronounce it) 👍
-##Software Developer 🧑🏻‍💻 | Martial Artist 🥋 | Former ROK Marine Corps Mechanic 🛠
+####Software Developer 🧑🏻‍💻 | Martial Artist 🥋 | Former ROK Marine Corps Mechanic 🛠
 
 Hi and welcome to my github. I am a Software Engineer at IDCITI.
 Currently located in Incheon, South Korea, I've been working as a Software Engineer for the past three years, working on my fourth one.
