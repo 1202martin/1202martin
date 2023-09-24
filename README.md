@@ -1,4 +1,4 @@
-### Hi I'm Martin (You can call me Seonghoon if you can pronounce it) 👍
+### Hi I'm Martin (Call me Seonghoon if you can pronounce it) 👍
 Software Developer 🧑🏻‍💻 | Martial Artist 🥋 | Former ROK Marine Corps Mechanic 🛠
 
 Hi and welcome to my github. I am a Software Engineer at IDCITI.
