@@ -20,12 +20,7 @@ You can reach me at martin.dev.94@gmail.com at any time; I feel comfortable spea
   - Cloud Computing
 - Operating System
 - Computer // Network Security
-  - Firewall Configuration
-  - ACL
-  - Authentication
 - Software Development
-  - Python
-  - C
 
 [Fun Fact]
 - I'm a HUGE fan of Kyokushin Karate, so if anyone is a Kyokushin Karateka, I'm more than welcome to have a nice chat with you. Osu!
