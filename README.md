@@ -5,7 +5,7 @@ Hi and welcome to my github. I am a Software Engineer at IDCITI.
 Currently located in Incheon, South Korea, I've been working as a Software Engineer for the past three years, working on my fourth one.
 
 On a normal basis, I'm in office from 09:30 to 17:30 KST, and in the Gym working out from 18:00 to 20:30.
-You can reach me at martin.dev.94@gmail.com at any time; I feel comfortable speaking English and Korean, so feel free to contact me- I won't bite 🤣
+You can reach me at martin.dev.94@gmail.com or martin941079@gmail.com at any time; I feel comfortable speaking English and Korean, so feel free to contact me- I won't bite 🤣
 
 [Skills]
 - Python
